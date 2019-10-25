@@ -1,4 +1,4 @@
 
-```
-docker build -t maeharin/python3-dlib-opencv .
-```
+connected to dockerhub
+
+maeharin/python3-dlib-opencv
